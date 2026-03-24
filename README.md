@@ -2,10 +2,6 @@
 <h1 align="center">Theekshana Wedamulla</h1>
 <h3 align="center">Front-End Developer | UI/UX Designer | AI Enthusiast</h3>
 
-<p align="center">
-🎓 Undergraduate @ SLIIT &nbsp; | &nbsp; 💡 Innovator &nbsp; | &nbsp; 💻 Developer &nbsp; | &nbsp; 🚀 Problem Solver
-</p>
-
 ---
 
 ## ✨ About Me
@@ -63,9 +59,6 @@
   </a>
 </p>
 
----
-
-## 🔥 Status
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-%F0%9F%92%BC-8A2BE2?style=for-the-badge" />
@@ -82,3 +75,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ASK%20ME-WEB%20DESIGN%20%26%20FRONTEND-FF1493?style=for-the-badge" />
 </p>
+
+---
