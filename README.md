@@ -56,13 +56,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theekshana-wedamulla-698a8a386/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheekshanaSewmini" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-%F0%9F%92%BC-8A2BE2?style=for-the-badge" />
