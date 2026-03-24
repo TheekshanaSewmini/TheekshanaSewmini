@@ -40,13 +40,6 @@
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaSewmini&layout=compact&theme=radical&hide_border=false&border_radius=10&title_color=ff4b8b&text_color=ffffff" />
-</p>
-
----
 
 ## 📊 Contact Me
 
