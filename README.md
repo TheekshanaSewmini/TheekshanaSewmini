@@ -60,7 +60,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TheekshanaSewmini" target="_blank">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" />
   </a>
 </p>
 
