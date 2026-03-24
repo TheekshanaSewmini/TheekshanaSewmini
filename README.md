@@ -40,11 +40,11 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <h2>GitHub Streak</h2>
+      <h2 style="color:#60A5FA;">GitHub Streak</h2>
       <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshanaSewmini&theme=transparent&background=0D1117&border=60A5FA&ring=1E3A8A&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
     </td>
     <td align="center" width="50%">
-      <h2>Top Languages</h2>
+      <h2 style="color:#60A5FA;">Top Languages</h2>
       <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaSewmini&layout=compact&bg_color=0D1117&title_color=60A5FA&text_color=FFFFFF&border_color=60A5FA&hide_border=false" />
     </td>
   </tr>
