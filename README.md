@@ -33,10 +33,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshanaSewmini&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaSewmini&layout=compact&theme=radical&hide_border=true" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h2>GitHub Streak</h2>
+      <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheekshanaSewmini&theme=radical&hide_border=false&border_radius=12" />
+    </td>
+    <td align="center" width="50%">
+      <h2>Top Languages</h2>
+      <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheekshanaSewmini&layout=compact&theme=radical&hide_border=false&border_radius=12&title_color=ff4b8b&text_color=ffffff&bg_color=141321" />
+    </td>
+  </tr>
+</table>
 
 ---
 
