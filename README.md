@@ -2,7 +2,6 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:3b82f6,100:7c3aed&text=Theekshana%20Wedamulla&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20AI%20Enthusiast&descAlignY=66&descSize=22&animation=fadeIn" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheekshanaSewmini&label=Profile%20Views&color=ff7f50&style=flat" />
   <img src="https://img.shields.io/github/followers/TheekshanaSewmini?label=Followers&style=flat&color=white" />
