@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ About Me
+<h2 align="center">About Me</h2>
 
 - 💻 Focused on **Front-End Development** using modern frameworks  
 - 🎨 Designing clean and intuitive **UI/UX experiences**  
