@@ -12,7 +12,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a BSc (Hons) Information Technology undergraduate at SLIIT, passionate about front-end development, UI/UX design, and AI-driven solutions.
+I'm a BSc (Hons) Information Technology undergraduate at SLIIT, passionate about front-end development, UI/UX design.
 </p>
 
 - 💻 Focused on **Front-End Development** using modern frameworks  
