@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">**Technologies I Use**</h2>
+<h2 align="center">Technologies I Use</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css" />
@@ -52,7 +52,7 @@
 
 ---
 
-<h2 align="center">**📊 Contact Me**</h2>
+<h2 align="center">Contact Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theekshana-wedamulla-698a8a386/" target="_blank">
