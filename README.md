@@ -56,11 +56,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theekshana-wedamulla-698a8a386/">
-    <img height="45" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/TheekshanaSewmini">
-    <img height="45" src="https://cdn.simpleicons.org/github/ffffff" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
