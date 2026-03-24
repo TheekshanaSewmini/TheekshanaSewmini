@@ -55,12 +55,12 @@
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/theekshana-wedamulla-698a8a386/" target="_blank">
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/theekshana-wedamulla-698a8a386/">
+    <img height="45" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TheekshanaSewmini" target="_blank">
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <a href="https://github.com/TheekshanaSewmini">
+    <img height="45" src="https://cdn.simpleicons.org/github/ffffff" />
   </a>
 </p>
 
