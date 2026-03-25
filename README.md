@@ -84,3 +84,6 @@ I'm a BSc (Hons) Information Technology undergraduate at SLIIT, passionate about
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1e3a8a,100:60a5fa" />
+</p>
