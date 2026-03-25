@@ -83,7 +83,6 @@ I'm a BSc (Hons) Information Technology undergraduate at SLIIT, passionate about
   <img src="https://img.shields.io/badge/ASK%20ME-WEB%20DESIGN%20%26%20FRONTEND-FF1493?style=for-the-badge" />
 </p>
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1e3a8a,100:60a5fa" />
 </p>
